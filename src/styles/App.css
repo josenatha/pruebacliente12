@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+ 
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+  }
+  .color{
+    background-color: blue;
+  }
+  th{
+    background-color: aqua;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  .header {
+    background-color: #340808aa; /* Color de fondo del encabezado */
+    padding: 20px; /* Espacio interno alrededor del contenido del encabezado */
+    color: #fff; /* Color del texto del encabezado */
+  }
+  
+  h1 {
+    margin: 0; /* Elimina el margen predeterminado del encabezado */
+  }
+  
